@@ -32,9 +32,9 @@ header{
 .banner{
     display: flex;
     flex-wrap: wrap;
-    max-width: 400px;
-    margin: 0 auto;
-    padding: 10px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
  
 }
 h1 {
